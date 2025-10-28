@@ -9,6 +9,7 @@
 
 * I study at the Belarusian State Technological University
 * I speak Russian, English and Polish
+<br>
 📌 Living in Minsk, Belarus
 
 
