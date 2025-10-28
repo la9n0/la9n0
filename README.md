@@ -8,7 +8,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 * I study at the Belarusian State Technological University
-* I speak Russian, English and Polish
+* Speak Russian, English and Polish
 <p>📌 Living in Minsk, Belarus<p>
 
 
