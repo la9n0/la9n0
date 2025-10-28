@@ -5,6 +5,8 @@
   <a href="https://t.me/la9n0"> <img src="https://img.shields.io/badge/Telegram-orange?style=for-the-badge&logo=telegram&logoColor=black" alt="Telegram"></a>
 </div>
 
+<hr>
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 * I study at the Belarusian State Technological University
