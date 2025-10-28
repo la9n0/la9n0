@@ -15,7 +15,7 @@
 
 <hr>
 
-## ⚡ Technologies
+## ⚡ Languages/Technologies
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
