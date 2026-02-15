@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="изображение" src="https://github.com/user-attachments/assets/ef04f8fe-7918-42c1-8441-fe01aa3762ba" /><div id="header" align="center"> <h1>Welcome, I'm Vladislav </h1> </div>
+<img width="374" height="185" alt="260215_16h00m09s_screenshot" src="https://github.com/user-attachments/assets/a51cb330-a20e-4f15-84a3-02e10063a5fe" /><img width="374" height="185" alt="изображение" src="https://github.com/user-attachments/assets/763352e1-0d40-4b04-a400-92577023e6bc" /><img width="1536" height="1024" alt="изображение" src="https://github.com/user-attachments/assets/ef04f8fe-7918-42c1-8441-fe01aa3762ba" /><div id="header" align="center"> <h1>Welcome, I'm Vladislav </h1> </div>
 
 ### 📬 Find me at
 <div id="social-media" size>
@@ -16,7 +16,7 @@
 <hr>
 
 ## ⚡ Languages/Technologies
-![С#](https://chatgpt.com/s/m_6991c324a1648191b663b712e60bf343)
+![С#](/home/vl/Изображения/Screenshots/260215_16h00m09s_screenshot.png)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
