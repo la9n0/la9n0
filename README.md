@@ -17,8 +17,7 @@
 
 ## ⚡ Languages/Technologies
 
-<img width="20" src= "/home/vl/Изображения/Screenshots/260215_16h00m09s_screenshot.png">
-![С#](home/vl/Изображения/Screenshots/260215_16h00m09s_screenshot.png)
+![C#](csharp_badge_cropped.png)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
