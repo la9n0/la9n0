@@ -17,7 +17,7 @@
 
 ## ⚡ Languages/Technologies
 
-<h1 img = "https://github.com/user-attachments/assets/77640ae1-0292-4a27-a261-c7cab064774c", height= 20/>
+<h1 img = "https://github.com/user-attachments/assets/77640ae1-0292-4a27-a261-c7cab064774c", height= 20></h1>
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
